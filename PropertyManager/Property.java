@@ -1,7 +1,7 @@
 /*
-	File Name:	Property.java
-
-*/
+ *	Author: Kevin Hohl
+ *	File Name:	Property.java
+ */
 
 // Property Class
 public class Property implements Comparable <Property>
