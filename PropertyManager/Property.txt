@@ -1,0 +1,10 @@
+129,Offer Received,Andy Roberts,05/12/09,9 South Avenue Rockhampton QLD 4700
+118,Sale,Arthur London,20/01/10,51 Coast Street Frenchville QLD 4701
+201,Sold,Euller Patel,22/01/11,5 Sunrise Avenue Norman Gardens QLD 4701
+463,Sold,James Smith,12/01/10,14 River Road Norman Gardens QLD 4701
+123,Sale,Joshua Lincoln,15/12/09,3 Mackay Road Frenchville QLD 4701
+1337,Awesome,Kevin Hohl,12/11/89,3 / 119 Pohlman Street Southport QLD 4215
+500,Sale,Kim Johnson,19/12/10,87 Bluesky Court Rockhampton QLD 4702
+124,Sale,Michael Green,12/12/10,33 Georginia Court Glenlee QLD 4701
+167,Under Contract,Peter Lee,11/09/10,14 Friendly Drive Glenmore QLD 4701
+200,Deposit Taken,Scott Jones,30/01/10,11 Airport Road Rockhampton QLD 4700
